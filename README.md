@@ -56,7 +56,7 @@ lucha-por-tu-libertad/
 
 1. Clonar el repositorio:
    ```bash
-   git clone https:[//github.com/TU_USUARIO/TU_REPO.git](https://github.com/CHAGUI412/Parcial-Ing-Web)
+   git clone https:(https://github.com/CHAGUI412/Parcial-Ing-Web)
    cd lucha-por-tu-libertad
 ---
 
